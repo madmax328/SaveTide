@@ -336,8 +336,8 @@ export const translations = {
 
   // ─── Extension privacy ────────────────────────────
   'ext.subtitle': {
-    fr: 'Extension Chrome - SaveTide (PriceWatch)',
-    en: 'Chrome Extension - SaveTide (PriceWatch)',
+    fr: 'Extension Chrome - SaveTide',
+    en: 'Chrome Extension - SaveTide',
   },
   'ext.updated': {
     fr: 'Derniere mise a jour : 14 janvier 2026',
@@ -345,16 +345,16 @@ export const translations = {
   },
   'ext.s1.title': { fr: '1. Introduction', en: '1. Introduction' },
   'ext.s1.desc': {
-    fr: 'PriceWatch ("nous", "notre") respecte votre vie privee. Cette politique de confidentialite explique comment notre extension Chrome collecte et utilise vos donnees.',
-    en: 'PriceWatch ("we", "our") respects your privacy. This privacy policy explains how our Chrome extension collects and uses your data.',
+    fr: 'SaveTide ("nous", "notre") respecte votre vie privee. Cette politique de confidentialite explique comment notre extension Chrome collecte et utilise vos donnees.',
+    en: 'SaveTide ("we", "our") respects your privacy. This privacy policy explains how our Chrome extension collects and uses your data.',
   },
   'ext.s2.title': {
     fr: '2. Donnees collectees',
     en: '2. Data collected',
   },
   'ext.s2.desc': {
-    fr: 'PriceWatch collecte les informations suivantes :',
-    en: 'PriceWatch collects the following information:',
+    fr: 'SaveTide collecte les informations suivantes :',
+    en: 'SaveTide collects the following information:',
   },
   'ext.s2.l1.strong': {
     fr: 'URLs des pages visitees',
@@ -377,8 +377,8 @@ export const translations = {
     en: '3. Data NOT collected',
   },
   'ext.s3.desc': {
-    fr: 'PriceWatch ne collecte PAS :',
-    en: 'PriceWatch does NOT collect:',
+    fr: 'SaveTide ne collecte PAS :',
+    en: 'SaveTide does NOT collect:',
   },
   'ext.s3.l1': {
     fr: 'Vos informations personnelles (nom, email, adresse)',
@@ -514,8 +514,8 @@ export const translations = {
     en: 'We do not transfer your data outside the EU',
   },
   'ext.copyright': {
-    fr: 'SaveTide (PriceWatch). Tous droits reserves.',
-    en: 'SaveTide (PriceWatch). All rights reserved.',
+    fr: 'SaveTide. Tous droits reserves.',
+    en: 'SaveTide. All rights reserved.',
   },
 } as const;
 

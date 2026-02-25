@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Politique de Confidentialite - SaveTide Extension Chrome',
   description:
-    'Politique de confidentialite de l\'extension Chrome SaveTide (PriceWatch). Decouvrez comment nous protegeons vos donnees.',
+    'Politique de confidentialite de l\'extension Chrome SaveTide France. Decouvrez comment nous protegeons vos donnees.',
 };
 
 export default function ExtensionPrivacy() {
@@ -50,7 +50,7 @@ export default function ExtensionPrivacy() {
             marginBottom: 8,
           }}
         >
-          Extension Chrome - SaveTide (PriceWatch)
+          Extension Chrome - SaveTide France
         </p>
         <p style={{ color: '#64748b', marginBottom: 32 }}>
           Derniere mise a jour : 14 janvier 2026
@@ -67,7 +67,7 @@ export default function ExtensionPrivacy() {
           1. Introduction
         </h2>
         <p>
-          PriceWatch (&quot;nous&quot;, &quot;notre&quot;) respecte votre vie
+          SaveTide France (&quot;nous&quot;, &quot;notre&quot;) respecte votre vie
           privee. Cette politique de confidentialite explique comment notre
           extension Chrome collecte et utilise vos donnees.
         </p>
@@ -82,7 +82,7 @@ export default function ExtensionPrivacy() {
         >
           2. Donnees collectees
         </h2>
-        <p>PriceWatch collecte les informations suivantes :</p>
+        <p>SaveTide France collecte les informations suivantes :</p>
         <ul style={{ paddingLeft: 24, margin: '12px 0' }}>
           <li>
             <strong>URLs des pages visitees</strong> : Uniquement pour detecter
@@ -104,7 +104,7 @@ export default function ExtensionPrivacy() {
         >
           3. Donnees NON collectees
         </h2>
-        <p>PriceWatch ne collecte PAS :</p>
+        <p>SaveTide France ne collecte PAS :</p>
         <ul style={{ paddingLeft: 24, margin: '12px 0' }}>
           <li>Vos informations personnelles (nom, email, adresse)</li>
           <li>Vos mots de passe ou informations de paiement</li>
@@ -223,7 +223,7 @@ export default function ExtensionPrivacy() {
         >
           9. Services tiers
         </h2>
-        <p>PriceWatch utilise :</p>
+        <p>SaveTide France utilise :</p>
         <ul style={{ paddingLeft: 24, margin: '12px 0' }}>
           <li>
             <strong>SerpAPI</strong> : Pour recuperer les resultats de
@@ -313,7 +313,7 @@ export default function ExtensionPrivacy() {
             fontSize: 14,
           }}
         >
-          &copy; 2026 SaveTide (PriceWatch). Tous droits reserves.
+          &copy; 2026 SaveTide France. Tous droits reserves.
         </p>
       </main>
     </>
